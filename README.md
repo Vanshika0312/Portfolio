@@ -1,2 +1,4 @@
 ## 🚀 My Portfolio
-Check out my portfolio here: [Click Here](http://127.0.0.1:5500/Webd/portfolio1.html)
+
+Welcome to my portfolio!  
+You can view the live website here: [My Portfolio Website](https://Vanshika0312.github.io/Portfolio/)
